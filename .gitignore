@@ -8,3 +8,4 @@ Created on Fri Apr 24 13:17:34 2020
 Scripts/
 glove/
 torchtext_data/
+.vector_cache
