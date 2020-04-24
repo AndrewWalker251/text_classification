@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 24 13:17:34 2020
+
+@author: AWalker8
+"""
+
+Scripts/
+glove/
+torchtext_data/
